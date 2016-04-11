@@ -1,0 +1,5 @@
+1. Zbudować prosty kompilujacy sie program z podstawowym CLI GUI
+2. Implementacja tablicy [dynamiczna]
+3. Implementacja listy dwukierunkowej [dynamiczna]
+4. Implementacja algorytmu pomiaru czasu operacji 
+5. Przeprowadzenie podstawowych pomiarow czasu
